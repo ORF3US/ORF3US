@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming and ethical hacking
 - 🌱 I’m currently learning python
 - 📫 How to reach me d0z3r604@gmail.com
-- 😄 Pronouns: he/him
 
 <!---
 ORF3US/ORF3US is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
